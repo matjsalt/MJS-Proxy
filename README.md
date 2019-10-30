@@ -8,7 +8,7 @@ No more three-four steps to configure it, just one key combination.
 
 **Installation:**
 
- 1. Go to [chrome://extensions](chrome://extensions)
+ 1. Go to chrome://extensions
  2. Enable 'Developer Mode'
  3. Drag and drop the folder 'MJS Proxy' in that screen
  4. Enjoy your beginner learning steps a little more, like me.
